@@ -1,0 +1,7 @@
+{
+  "name": "js-countdown-timer",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1"
+  }
+}
